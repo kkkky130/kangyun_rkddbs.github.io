@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "my virtual reality"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "전강윤"
-description              : "시스템 프로그램을 위한 C언어" 
+description              : "가상현실 컨텐츠 " 
 url                      : "https://kangyun_rkddbs.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kangyun_rkddbs/kangyun_rkddbs.github.io"
