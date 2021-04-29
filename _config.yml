@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "전강윤"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/6376ce31993372cef5e841247a4cb897.jpg" # path of avatar image, e.g. 
   bio              : "rainbow chaser"
   location         : "대한민국, 용인"
   email            : "kkkky130@naver.com"
